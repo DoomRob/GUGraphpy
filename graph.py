@@ -5,7 +5,7 @@ import matplotlib.pyplot as mplt
 
 root = Tk()
 root.title("My Code")
-root.iconbitmap('c:/Users/corru/OneDrive/Documents/Python/GUI')
+root.iconbitmap('Python/GUI')
 root.geometry("400x400")
 
 def graph():
